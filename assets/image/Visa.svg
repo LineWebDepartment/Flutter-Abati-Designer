@@ -1,0 +1,22 @@
+<svg id="Component_111_1" data-name="Component 111 – 1" xmlns="http://www.w3.org/2000/svg" width="49" height="46" viewBox="0 0 49 46">
+  <g id="Rectangle" fill="#f8f8f8" stroke="#eaeaea" stroke-width="1">
+    <rect width="49" height="46" stroke="none"/>
+    <rect x="0.5" y="0.5" width="48" height="45" fill="none"/>
+  </g>
+  <g id="mastercard-light-large" transform="translate(19.615 19.174)">
+    <rect id="card_bg" width="22.96" height="15.307" rx="2" fill="#dfe3e8"/>
+    <g id="mastercard" transform="translate(2.224 1.531)">
+      <g id="Group" transform="translate(0 0)" opacity="0">
+        <rect id="Rectangle-2" data-name="Rectangle" width="18.516" height="12.245" fill="#fff"/>
+      </g>
+      <rect id="Rectangle-3" data-name="Rectangle" width="4.884" height="7.979" transform="translate(6.816 2.133)" fill="#f26122"/>
+      <path id="Path" d="M6.3,5.075A5.061,5.061,0,0,1,8.212,1.086a5.075,5.075,0,1,0,0,7.979A5.061,5.061,0,0,1,6.3,5.075Z" transform="translate(1.043 1.047)" fill="#ea1d25"/>
+      <path id="Shape" d="M.239.2H.206V0H.254L.316.139.373,0H.421V.2H.387V.048L.335.177H.3L.239.048V.2ZM.1.2H.067V.034H0V0H.167V.034H.1V.2Z" transform="translate(16.881 9.069)" fill="#f69e1e"/>
+      <path id="Path-2" data-name="Path" d="M8.208,5.072A5.075,5.075,0,0,1,0,9.061,5.075,5.075,0,0,0,.851,1.939,4.975,4.975,0,0,0,0,1.083,5.075,5.075,0,0,1,8.208,5.072Z" transform="translate(9.256 1.051)" fill="#f69e1e"/>
+    </g>
+  </g>
+  <g id="visa-light-large" transform="translate(6.425 11.52)">
+    <rect id="card_bg-2" data-name="card_bg" width="22.96" height="15.307" rx="2" fill="#dfe3e8"/>
+    <path id="visa-logo" d="M8.138,4.554a3.409,3.409,0,0,1-1.245-.235L7.1,3.363a2.4,2.4,0,0,0,1.137.287h.03c.34,0,.684-.141.684-.435,0-.187-.156-.336-.593-.55s-1-.563-1-1.2C7.357.6,8.144,0,9.27,0a3.068,3.068,0,0,1,1.072.2l-.2.957A2.158,2.158,0,0,0,9.223.946c-.07,0-.141,0-.211.01-.33.044-.478.217-.478.369,0,.185.237.309.537.467.476.249,1.069.56,1.065,1.289l.024-.038c0,.918-.788,1.512-1.995,1.512Zm3.17-.038H10.1L11.82.416A.52.52,0,0,1,12.3.091h.957l.928,4.424H13.121l-.139-.66h-1.44l-.234.66Zm1.138-3.229-.6,1.66H12.8ZM6.075,4.5H4.927L5.884.077H7.031L6.075,4.5ZM3.564,4.487H2.315L1.4.952A.481.481,0,0,0,1.129.564,4.744,4.744,0,0,0,0,.191L.029.062H1.976a.535.535,0,0,1,.531.45l.478,2.559L4.176.062H5.42L3.564,4.486Z" transform="translate(4.382 5.372)" fill="#2a2a6c"/>
+  </g>
+</svg>

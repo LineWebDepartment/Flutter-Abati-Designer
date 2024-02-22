@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="211.82" height="211.82" viewBox="0 0 211.82 211.82">
+  <g id="Group_57637" data-name="Group 57637" transform="translate(-108.09 -279.18)">
+    <circle id="Ellipse_403" data-name="Ellipse 403" cx="105.91" cy="105.91" r="105.91" transform="translate(108.09 279.18)" fill="#f1f1f1"/>
+    <path id="Path_153462" data-name="Path 153462" d="M198.292,384.993l8.224,4.691h0Z" transform="translate(-72.061 86.318)" fill="#7a7a7a"/>
+    <path id="basket_2_" data-name="basket (2)" d="M110.8,27.474h-8.96L90.96,5.714a5.649,5.649,0,0,0-8.32-2.56,5.649,5.649,0,0,0-2.56,8.32l7.68,16H44.24l8.32-16.64c1.28-3.2,0-7.04-2.56-8.32a7.359,7.359,0,0,0-8.96,3.2L30.16,27.474H21.2A18.857,18.857,0,0,0,2,46.674c0,8.32,5.76,15.36,13.44,17.92l4.48,48c1.28,9.6,9.6,17.28,19.2,17.28H92.88c9.6,0,17.92-7.68,19.2-17.28l4.48-48c7.68-2.56,13.44-9.6,13.44-17.92A18.857,18.857,0,0,0,110.8,27.474Zm0,25.6H21.2a6.047,6.047,0,0,1-6.4-6.4,6.047,6.047,0,0,1,6.4-6.4h89.6a6.047,6.047,0,0,1,6.4,6.4A6.047,6.047,0,0,1,110.8,53.074Z" transform="translate(148 303.074)" fill="#606060"/>
+    <path id="basket_2_2" data-name="basket (2)" d="M19.92,112.594c1.28,9.6,9.6,17.28,19.2,17.28H92.88c9.6,0,17.92-7.68,19.2-17.28Z" transform="translate(148.5 303.074)"/>
+    <g id="Group_57636" data-name="Group 57636" transform="translate(-136.604 73.521)">
+      <g id="Ellipse_463" data-name="Ellipse 463" transform="translate(334.173 310.248)" fill="#f1f1f1" stroke="#f1f1f1" stroke-width="1">
+        <circle cx="3.683" cy="3.683" r="3.683" stroke="none"/>
+        <circle cx="3.683" cy="3.683" r="3.183" fill="none"/>
+      </g>
+      <g id="Ellipse_465" data-name="Ellipse 465" transform="translate(327.727 315.773)" fill="#656565" stroke="#656565" stroke-width="1">
+        <circle cx="4.144" cy="4.144" r="4.144" stroke="none"/>
+        <circle cx="4.144" cy="4.144" r="3.644" fill="none"/>
+      </g>
+      <g id="Ellipse_466" data-name="Ellipse 466" transform="translate(364.561 315.773)" fill="#656565" stroke="#656565" stroke-width="1">
+        <circle cx="4.144" cy="4.144" r="4.144" stroke="none"/>
+        <circle cx="4.144" cy="4.144" r="3.644" fill="none"/>
+      </g>
+      <g id="Ellipse_464" data-name="Ellipse 464" transform="translate(359.036 310.248)" fill="#f1f1f1" stroke="#f1f1f1" stroke-width="1">
+        <circle cx="3.683" cy="3.683" r="3.683" stroke="none"/>
+        <circle cx="3.683" cy="3.683" r="3.183" fill="none"/>
+      </g>
+      <line id="Line_265" data-name="Line 265" x2="12.892" transform="translate(343.842 324.521)" fill="none" stroke="#f1f1f1" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+    <line id="Line_266" data-name="Line 266" x2="137" transform="translate(148.5 416.5)" fill="none" stroke="#f1f1f1" stroke-width="5"/>
+  </g>
+</svg>

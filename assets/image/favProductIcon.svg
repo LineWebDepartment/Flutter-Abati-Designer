@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <filter id="Rectangle_17352" x="0" y="0" width="88" height="88" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_113_1" data-name="Component 113 – 1" transform="translate(24 24)">
+    <g transform="matrix(1, 0, 0, 1, -24, -24)" filter="url(#Rectangle_17352)">
+      <rect id="Rectangle_17352-2" data-name="Rectangle 17352" width="40" height="40" rx="20" transform="translate(24 24)" fill="#fff"/>
+    </g>
+    <path id="heart_3_" data-name="heart (3)" d="M15.1,1.917a5.522,5.522,0,0,0-4.746,2.848A5.522,5.522,0,0,0,5.608,1.917,5.868,5.868,0,0,0,0,8c0,3.924,4.13,8.209,7.593,11.114a4.292,4.292,0,0,0,5.522,0c3.464-2.905,7.593-7.19,7.593-11.114A5.868,5.868,0,0,0,15.1,1.917Z" transform="translate(9.646 8.981)" fill="#b9873e"/>
+  </g>
+</svg>
